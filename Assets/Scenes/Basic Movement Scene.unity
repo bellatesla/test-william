@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1659269203637625240, guid: 73a1c68d8e34af14baa109a43bb98882, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -29.1
+      objectReference: {fileID: 0}
     - target: {fileID: 1659269203637625241, guid: 73a1c68d8e34af14baa109a43bb98882, type: 3}
       propertyPath: m_Name
       value: Main Hall
@@ -186,9 +190,21 @@ PrefabInstance:
       propertyPath: volume
       value: 0.303
       objectReference: {fileID: 0}
+    - target: {fileID: 5730217733003601116, guid: 73a1c68d8e34af14baa109a43bb98882, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.67
+      objectReference: {fileID: 0}
     - target: {fileID: 5730217733442864836, guid: 73a1c68d8e34af14baa109a43bb98882, type: 3}
       propertyPath: m_Name
       value: Hallway2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5730217733442864837, guid: 73a1c68d8e34af14baa109a43bb98882, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5730217733457039547, guid: 73a1c68d8e34af14baa109a43bb98882, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.54
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 73a1c68d8e34af14baa109a43bb98882, type: 3}
